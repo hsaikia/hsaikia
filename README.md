@@ -5,8 +5,9 @@ Hello World, I'm Himangshu.
 - I like to create educational content. [Learn By Example](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) is my YouTube channel where I post content on various CS topics.
 - I have a PhD in CS. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
 - I work as a Software Developer working in the field of Autonomous Driving.
-- I also enjoy gamedev in Godot and Bevy.
+- I enjoy prototyping various projects in the Godot and Bevy game engines.
 - I like strategy board games like Chess and Agricola, and often spend a lot of time thinking about algorithms for optimal decision making in games.
+- I enjoy solving programming puzzles. My favorite programming language is Rust.  
 - I am from Assam, in North-East India. I am natively proficient in English, Assamese and Hindi. Currently I live in Munich, Germany. 
 
 
