@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 🌏
+
+Hello World, I am Himangshu. I work as a Software Engineer building autonomous driving systems. My interests broadly cover Simulation, Algorithms, Artificial Intelligence, Computer Graphics, Computer Vision and Visualization. 
+
+I am also an educational content creator on [YouTube](https://youtube.com/@learnbyexample24)
+
+Join my [Discord](https://discord.gg/kRkeYEKc) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
 
 <!--
 **hsaikia/hsaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
