@@ -2,9 +2,9 @@
 
 Hello World, I'm Himangshu.
 
-- 📺 I like to create educational content. [Learn By Example](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) is my YouTube channel where I post content on various CS topics.
+- 📺 I create educational content on various CS topics on my [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) channel.
 - 🚙 I am a Software Developer working on building Autonomous Driving systems. In general my experience / interests broadly cover Algorithms, Simulation, Artificial Intelligence, Computer Graphics, Computer Vision and Visualization.
-- 🎮 I enjoy prototyping various projects in the Godot and Bevy game engines. Here I generate random [Procedural Trees](https://github.com/hsaikia/ProceduralTreesBevy) in Bevy and here, random isometric tile-maps in Godot using [Wave Function Collapse](https://github.com/hsaikia/WaveFunctionCollapseGodot).
+- 🎮 I like prototyping various projects in the Godot and Bevy game engines. Here I generate random [Procedural Trees](https://github.com/hsaikia/ProceduralTreesBevy) in Bevy and here, random isometric tile-maps in Godot using [Wave Function Collapse](https://github.com/hsaikia/WaveFunctionCollapseGodot).
 - ♟️ I love turn-based strategy games, and often spend a lot of time thinking about algorithms for optimal decision making in games. [Xewali](https://github.com/hsaikia/XewaliChess) is a moderately strong chess engine that I developed in C++. I also wrote a [game playing AI](https://github.com/hsaikia/Agricola) for the board game Agricola.
 - 🦀 I enjoy solving programming puzzles. My favorite programming language is Rust. I developed a [small Rust library](https://github.com/hsaikia/Advent-of-Code) for Advent of Code puzzles. I use it for IO handling and simple functionalities for common data structures such as grids, ranges etc.
 - 🎓 I have a PhD in Computer Science. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
