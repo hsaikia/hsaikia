@@ -8,7 +8,7 @@ Hello World, I'm Himangshu.
 - ♟️ I like to develop game AI algorithms. [Xewali](https://github.com/hsaikia/XewaliChess) is a moderately strong chess engine that I developed in C++. I also wrote a [game playing AI](https://github.com/hsaikia/Agricola) for the board game Agricola.
 - 🦀 I enjoy solving programming puzzles. My favorite programming language is Rust. I developed a [small Rust library](https://github.com/hsaikia/Advent-of-Code) for Advent of Code puzzles. I use it for IO handling and simple functionalities for common data structures such as grids, ranges etc.
 - 🎓 I have a PhD in Computer Science. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
-- 🏡 I am from Assam, in North-East India. I am natively proficient in English, Assamese and Hindi. Currently I live in Munich, Germany. 
+- 🏡 I am from Assam, in North-East India. I am natively proficient in English, অসমীয়া (Assamese) and हिन्दी (Hindi). Currently I live in Munich, Germany. 
 - 📫 Join my [Discord](https://discord.gg/kRkeYEKc) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
 
 <!--
