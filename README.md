@@ -1,6 +1,4 @@
-## Hello World
-
-Hi, I'm Himangshu.
+Hello World, I'm Himangshu.
 
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
 - 🚙 I held software engineering and leadership positions in the past working on Simulation and Safety-Critical Autonomous driving systems. In general my expertise cover Algorithms, Simulation, Robotics, Artificial Intelligence, Computer Graphics, Computer Vision and Visualization. 
