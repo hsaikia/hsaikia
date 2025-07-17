@@ -5,7 +5,7 @@ Hello World, I'm Himangshu.
 - 🌱 I am deeply passionate about and open to collaborate in projects in the following industry domains - Agriculture, Logistics, Space, Defense and Manufacturing.
 - 🎓 I have a PhD in Computer Science. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
 - 🏡 I am from Assam, in North-East India. I am natively proficient in English, অসমীয়া (Assamese) and हिन्दी (Hindi). Currently I live in Munich, Germany. 
-- 📫 Join my [Discord](https://discord.gg/kRkeYEKc) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
+- 📫 Join my [Discord](https://discord.gg/RQf67bmy) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
 
 <!--
 **hsaikia/hsaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
