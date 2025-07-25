@@ -2,7 +2,7 @@ Hello World, I'm Himangshu.
 
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
 - 🚙 I held software engineering and leadership positions in the past working on Simulation and Safety-Critical Autonomous driving systems. In general my expertise cover Algorithms, Simulation, Robotics, Artificial Intelligence, Computer Graphics, Computer Vision and Visualization. 
-- 🌱 I am deeply passionate about and open to collaborate in projects in the following industry domains - Agriculture, Logistics, Space, Defense and Manufacturing.
+- 🌱 I am deeply passionate about and open to collaborate in projects in the following industry domains - Agriculture, Urban Planning, Logistics, Space, Defense and Manufacturing.
 - 🎓 I have a PhD in Computer Science. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
 - 🏡 I am from Assam, in North-East India. I am natively proficient in English, অসমীয়া (Assamese) and हिन्दी (Hindi). Currently I live in Munich, Germany. 
 - 📫 Join my [Discord](https://discord.gg/RQf67bmy) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
