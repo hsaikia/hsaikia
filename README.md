@@ -1,10 +1,12 @@
+⭐⭐⭐ Join my Advent of Code 2025 leaderboard : 1024366-4eaeb2bd ⭐⭐⭐
+
 Hello World, I'm Himangshu.
 
 - 🏆 I am the creator of [Tournament Generator](https://tournament-generator.com) - A web based pairings generator for organizing different kinds of tournament formats for any sport.
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
 - 🚙 I held software engineering and leadership positions in the past working on Simulation and Safety-Critical Autonomous driving systems. In general my expertise cover Algorithms, Simulation, Robotics, Artificial Intelligence, Computer Graphics, Computer Vision and Visualization. 
 - 🎓 I have a PhD in Computer Science. My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
-- 📫 Join my [Discord](https://discord.gg/XgUakAcr) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
+- 📫 Join my [Discord](https://discord.gg/QYU5enNkgv) or connect on [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-phd-a4a4711b/) to reach out!
 
 <!--
 **hsaikia/hsaikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
