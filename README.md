@@ -1,4 +1,4 @@
-⭐⭐⭐ Join my Advent of Code 2025 leaderboard : 1024366-4eaeb2bd ⭐⭐⭐
+⭐⭐⭐ Join my Advent of Code 2025 leaderboard : [1024366-4eaeb2bd](https://adventofcode.com/2025/leaderboard/private/view/1024366?view_key=a7bc5321) ⭐⭐⭐
 
 Hello World, I'm Himangshu.
 
