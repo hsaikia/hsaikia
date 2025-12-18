@@ -1,5 +1,3 @@
-⭐⭐⭐ Join my Advent of Code 2025 leaderboard : [1024366-4eaeb2bd](https://adventofcode.com/2025/leaderboard/private/view/1024366?view_key=a7bc5321) ⭐⭐⭐
-
 Hello World, I'm Himangshu.
 
 - 🏆 I am the creator of [Tournament Generator](https://tournament-generator.com) - A web based pairings generator for organizing different kinds of tournament formats for any sport.
