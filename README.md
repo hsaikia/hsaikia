@@ -3,6 +3,7 @@
 ### Check my apps!
 - 🌱 [Karja](https://karja.online/) - a project tracker tool that uses a dependency tree to identify task priorities.
 - 🏆 [Tournament Generator](https://tournament-generator.com) - A web based pairings generator for organizing different kinds of tournament formats for any sport.
+- ♟️ [Xewali](https://lichess.org/@/Xewali) - A moderately strong chess engine. The original engine was written in [C++](https://github.com/hsaikia/XewaliChess) and recently in [Rust](https://github.com/hsaikia/XewaliChessRust).
 
 ### About Me
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
