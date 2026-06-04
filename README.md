@@ -2,7 +2,7 @@
 
 ### Check my apps!
 
-- 🌱 [Karja](https://karja.online/) - a project tracker tool that uses a dependency tree to identify task priorities.
+- 🌱 [Karja](https://karja.online/) - A local first AI powered super-app that focuses on privacy and synergy.
 - 🏆 [Tournament Generator](https://tournament-generator.com) - A web based pairings generator for organizing different kinds of tournament formats for any sport.
 - ♟️ [Xewali](https://lichess.org/@/Xewali) - A moderately strong chess engine. The engine was first written in [C++](https://github.com/hsaikia/XewaliChess) and then ported to [Rust](https://github.com/hsaikia/XewaliChessRust).
 - 🏠 [Floor Planner](https://floorplan.karja.online/) - A simple tool to draw floor plans and construction maps.
