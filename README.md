@@ -1,6 +1,6 @@
 ## Hello World, I'm Himangshu.
 
-### Check my apps!
+### Products
 
 - 🌱 [Karja](https://karja.app/) - A local first AI powered super-app that focuses on privacy and synergy.
 
