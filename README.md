@@ -2,9 +2,7 @@
 
 ### Check my apps!
 
-- 🌱 [Karja](https://karja.online/) - A local first AI powered super-app that focuses on privacy and synergy.
-- 🏆 [Tournament Generator](https://tournament-generator.com) - A web based pairings generator for organizing different kinds of tournament formats for any sport.
-- ♟️ [Xewali](https://lichess.org/@/Xewali) - A moderately strong chess engine. The engine was first written in [C++](https://github.com/hsaikia/XewaliChess) and then ported to [Rust](https://github.com/hsaikia/XewaliChessRust).
+- 🌱 [Karja](https://karja.app/) - A local first AI powered super-app that focuses on privacy and synergy.
 
 ### About Me
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
