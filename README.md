@@ -1,8 +1,10 @@
 ## Hello World, I'm Himangshu.
 
-### Products
+### Products and Apps
 
 - 🌱 [Karja](https://karja.app/) - A local first AI powered super-app that focuses on privacy and synergy.
+- ♟️ [Xewali Chess](https://github.com/hsaikia/XewaliChessRust) is a minimalist, moderately powerful chess engine written in Rust. You can challenge it for a game on [Lichess](https://lichess.org/@/Xewali).
+
 
 ### About Me
 - 📺 I am an educational content creator on [Youtube](https://www.youtube.com/channel/UCrip_x8QZ7GLTykFWJgS5Ww) where I post on various CS and Math topics.
